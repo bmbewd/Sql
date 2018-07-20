@@ -1,4 +1,4 @@
---建立目錄
+﻿--建立目錄
 --product是分工，依照自己的分工建立自己的資料夾
 --ca102g4_pics 勿改
 CREATE OR REPLACE DIRECTORY image_product_dir AS 'c:\ca102g4_pics\product';
@@ -33,7 +33,7 @@ CREATE TABLE  NEWS (
 NEWS_ID VARCHAR2(20) NOT NULL,
 NEWS_NAME VARCHAR2(200) NOT NULL,
 NEWS_DATE DATE NOT NULL,
-NEWS_CON VARCHAR2(900) NOT NULL
+NEWS_CON VARCHAR2(90) NOT NULL
 );
 
 
