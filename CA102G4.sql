@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿--建立目錄--分支444
+=======
+﻿--建立目錄--MASTER666
+>>>>>>> master
 --product是分工，依照自己的分工建立自己的資料夾
 --ca102g4_pics 勿改
 CREATE OR REPLACE DIRECTORY image_product_dir AS 'c:\ca102g4_pics\product';
