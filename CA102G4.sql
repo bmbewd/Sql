@@ -1,4 +1,4 @@
-﻿--建立目錄
+﻿--建立目錄--分支111111
 --product是分工，依照自己的分工建立自己的資料夾
 --ca102g4_pics 勿改
 CREATE OR REPLACE DIRECTORY image_product_dir AS 'c:\ca102g4_pics\product';
